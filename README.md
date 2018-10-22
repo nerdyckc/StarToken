@@ -14,6 +14,8 @@ JWT_SECRET={ your jwt secret key}
 DB_NAME={database_name}
 DB_USERNAME={database_username}
 DB_PASSWORD={database_pw}
+AWS_ACCESS_KEY_ID=
+AWS_SESSION_TOKEN=
 ```
 
 2. Create a database for backend
